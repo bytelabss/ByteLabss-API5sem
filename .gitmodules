@@ -1,0 +1,4 @@
+[submodule "backend-spring-API5"]
+	path = backend-spring-API5
+	url = https://github.com/bytelabss/backend-spring-API5
+	branch = main
