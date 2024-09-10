@@ -2,3 +2,7 @@
 	path = backend-spring-API5
 	url = https://github.com/bytelabss/backend-spring-API5
 	branch = main
+[submodule "frontend-vue-API5"]
+	path = frontend-vue-API5
+	url = https://github.com/bytelabss/frontend-vue-API5
+	branch = main
