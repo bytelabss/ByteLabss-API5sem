@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:latest
+    container_name: byte
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      # MYSQL_DATABASE: minha_base_de_dados # Adicione quando estiver pronto
+      # MYSQL_USER: meu_usuario # Adicione quando estiver pronto
+      # MYSQL_PASSWORD: minha_senha # Adicione quando estiver pronto
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - my-network
+
+volumes:
+  mysql_data:
+    # Configuração padrão para o volume; você pode personalizar se necessário
+    driver: local
+
+networks:
+  my-network:
+    # Remova a configuração 'driver' se não for necessária
+    # driver: bridge
+    # Você pode especificar 'driver' se usar uma versão mais recente do Docker Compose que suporte essa opção.
+
