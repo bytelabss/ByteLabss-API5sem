@@ -92,8 +92,8 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
                                                 </a>
                                         </th>
                                         <th>
-                                                <a href="">
-                                                        <img src="" width="75px" height="75px"/>
+                                                <a href="https://github.com/Cauana">
+                                                        <img src="https://avatars.githubusercontent.com/u/77700346?v=4" width="75px" height="75px"/>
                                                 </a>
                                         </th>
                                         <th>
