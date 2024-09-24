@@ -15,14 +15,18 @@
         <img src="https://img.shields.io/badge/sprint-1-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
 </h2>
 
+<span id="indice">
+
 ## Índice 📎
 
 - [Índice 📎](#indice)
 - [Sobre 📚](#sobre)
 - [Backlog do Produto 📍](#backlog-do-produto)
-- [Projeto em Operação 📱](#projeto-em-operaçao)
+- [Projeto em Operação 📱](#projeto-em-operacao)
 - [Cronograma de Entrega 🗓](#cronograma-de-entrega)
 - [Equipe 👩‍💻👨‍💻](#equipe)
+
+<span id="sobre">
 
 ## Sobre 📚
 
@@ -40,11 +44,16 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
 6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
 7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
 
-<p align="justify"></p>
+
+<span id="backlog-do-produto">
 
 ## Backlog do Produto 📍
 
+<span id="projeto-em-operacao">
+
 ## Projeto em Operação 📱
+
+<span id="cronograma-de-entrega">
 
 ## Cronograma de Entrega 🗓
 
@@ -54,6 +63,8 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
 |  Sprint 2  |  30/09 a 20/10           | 
 |  Sprint 3  |  21/10 a 10/11           | 
 |  Sprint 4  |  11/11 a 01/12           |    
+
+<span id="equipe">
 
 ## Equipe 👩‍💻👨‍💻
 
