@@ -30,6 +30,18 @@
         A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. O projeto tem como objetivo a criação de uma plataforma focada na análise de dados de recrutamento e seleção de candidatos, em parceria com a empresa Pro4Tech.
 </p>
 
+### Requisitos Funcionais do Projeto 📝
+
+<ul>
+        <li>Dashboard Interativo em Tempo Real</li>
+        <li>Personalização de Relatórios</li>
+        <li>Geração Automática de Relatórios</li>
+        <li>Controle de Acesso e Permissões</li>
+        <li>Análises Predefinidas e Configuração de Alertas</li>
+        <li>Compartilhamento de Relatórios</li>
+        <li>Importação de Dados</li>
+</ul>
+
 <p align="justify"></p>
 
 ## Backlog do Produto 📍
