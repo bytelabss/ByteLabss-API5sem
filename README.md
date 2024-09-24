@@ -36,13 +36,13 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
 
 ### Requisitos Funcionais do Projeto 📝
 
-1. [Dashboard Interativo em Tempo Real](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=1.%20Dashboard%20Interativo%20em%20Tempo%20Real%3A)
-2. [Personalização de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=2.%20Personaliza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%3A)
-3. [Geração Automática de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=3.%20Gera%C3%A7%C3%A3o%20Autom%C3%A1tica%20de%20Relat%C3%B3rios%3A)
-4. [Controle de Acesso e Permissões](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=4.%20Controle%20de%20Acesso%20e%20Permiss%C3%B5es%3A)
-5. [Análises Predefinidas e Configuração de Alertas](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=5.%20An%C3%A1lises%20Predefinidas%20e%20Configura%C3%A7%C3%A3o%20de%20Alertas%3A)
-6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
-7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
+1. [Dashboard Interativo em Tempo Real](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Dashboard%20Interativo%20em%20Tempo%20Real%3A)
+2. [Personalização de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.%20Personaliza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%3A)
+3. [Geração Automática de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=3.%20Gera%C3%A7%C3%A3o%20Autom%C3%A1tica%20de%20Relat%C3%B3rios%3A)
+4. [Controle de Acesso e Permissões](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=4.%20Controle%20de%20Acesso%20e%20Permiss%C3%B5es%3A)
+5. [Análises Predefinidas e Configuração de Alertas](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=5.%20An%C3%A1lises%20Predefinidas%20e%20Configura%C3%A7%C3%A3o%20de%20Alertas%3A)
+6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
+7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
 
 
 <span id="backlog-do-produto">
