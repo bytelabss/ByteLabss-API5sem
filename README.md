@@ -30,9 +30,19 @@
 
 ## Sobre 📚
 
+<p align="center">
+        <a href="objetivo">Objetivo do Projeto 🎯</a> | 
+        <a href="requisitos">Requisitos Funcionais do Projeto 📝</a> | 
+        <a href="desenvolvimento"> Regras de Desenvolvimento 
+</p>
+
+<span id="objetivo">
+
 ### Objetivo do Projeto 🎯
 
 A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. O projeto tem como [objetivo](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#1-objetivos-do-sistema) a criação de uma plataforma focada na análise de dados de recrutamento e seleção de candidatos, em parceria com a empresa Pro4Tech.
+
+<span id="requisitos">
 
 ### Requisitos Funcionais do Projeto 📝
 
@@ -44,6 +54,11 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
 6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
 7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
 
+<span id="desenvolvimento">
+
+### Regras de Desenvolvimento
+
+[Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
 
 <span id="backlog-do-produto">
 
