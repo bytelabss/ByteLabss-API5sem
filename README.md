@@ -1,3 +1,5 @@
+<span id="topo">
+
 # DataViz - ByteLabss
 
 <p align="center">
@@ -31,16 +33,31 @@
 ## Sobre 📚
 
 <p align="center">
+        <a href="problema">O Problema 🤔</a> | 
         <a href="objetivo">Objetivo do Projeto 🎯</a> | 
         <a href="requisitos">Requisitos Funcionais do Projeto 📝</a> | 
-        <a href="desenvolvimento"> Regras de Desenvolvimento 
+        <a href="desenvolvimento"> Regras de Desenvolvimento 📏</a>
 </p>
+
+A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente. O cliente parceiro deste semestre é a empresa [Pro4Tech](https://pro4tech.com.br/).
+
+<span id="problema">
+
+### O Problema 🤔
+
+O problema apresentado pela empresa [Pro4Tech](https://pro4tech.com.br/) está relacionado à eficiência e à eficácia no processo de recrutamento e seleção de pessoal. Atualmente, a empresa busca otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados. A "dor" central do cliente inclui a necessidade de centralizar e visualizar dados dispersos, permitir uma tomada de decisão estratégica, gerar relatórios personalizados e automatizar processos manuais, além de possibilitar a integração de dados de diferentes fontes.
 
 <span id="objetivo">
 
 ### Objetivo do Projeto 🎯
 
-A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. O projeto tem como [objetivo](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#1-objetivos-do-sistema) a criação de uma plataforma focada na análise de dados de recrutamento e seleção de candidatos, em parceria com a empresa Pro4Tech.
+O projeto trata de uma plataforma focada na análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos como:
+
+- Métricas de eficiência no recrutamento (ex. tempo médio de contratação, quantidade de contratações por processo seletivo).
+- Identificação de padrões e tendências para otimizar o processo de seleção.
+- Personalização de relatórios conforme as necessidades específicas dos gestores. 
+
+A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de CRUD sobre os dados operacionais, exceto por permissões, dashboards e usuários.
 
 <span id="requisitos">
 
@@ -78,49 +95,49 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
                                         <td>US01</td>
                                         <td></td>
                                         <td>Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para que avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria.</td>
-                                        <td>Sprint 1</td>
+                                        <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
                                         <td></td>
                                         <td>Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado,para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
-                                        <td>Sprint 1</td>
+                                        <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
                                         <td></td>
                                         <td>Eu, como gerente de RH, quero visualizar a quantidade de contratações realizadas por cada processo seletivo em um período específico, para que eu possa monitorar o progresso e a eficiência dos processos seletivos</td>
-                                        <td>Sprint 1</td>
+                                        <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US04</td>
                                         <td></td>
                                         <td>Eu, como analista de RH, quero visualizar a quantidade de contratações realizadas por cada participante de RH, em um período específico, para que eu possa avaliar a produtividade e desempenho individual dos recrutadores</td>
-                                        <td>Sprint 1</td>
+                                        <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US05</td>
                                         <td></td>
                                         <td>Eu, como gerente de RH, quero um processo de ETL que extraia, transforme e carregue os dados de processos seletivos, vagas, participantes de RH, contratações e tempos envolvidos, para que eu possa consolidar essas informações em um data warehouse e realizar análises mais eficazes para melhorar as decisões de recrutamento</td>
-                                        <td>Sprint 1</td>
+                                        <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US06</td>
                                         <td></td>
                                         <td>Eu, como analista de RH, quero visualizar a pontuação de cada candidato por critério de avaliação, para cada vaga, para que eu possa avaliar objetivamente o desempenho dos candidatos e tomar decisões mais informadas no processo de contratação</td>
-                                        <td>Sprint 2</td>
+                                        <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US07</td>
                                         <td></td>
                                         <td>Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
-                                        <td>Sprint 2</td>
+                                        <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
                                         <td></td>
                                         <td>Eu, como analista de RH, quero poder receber relatórios automaticos sazonais, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
-                                        <td>Sprint 2</td>
+                                        <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US09</td>
@@ -272,3 +289,5 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
                 </table>
         </div>
 </body>
+
+→ [Voltar ao topo](#topo)
