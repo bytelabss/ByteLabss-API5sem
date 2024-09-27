@@ -39,25 +39,34 @@
         <a href="#desenvolvimento"> Regras de Desenvolvimento 📏</a>
 </p>
 
-A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente. O cliente parceiro deste semestre é a empresa [Pro4Tech](https://pro4tech.com.br/).
+<p align="justify">
+A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente. O cliente parceiro deste semestre é a empresa <a href="https://pro4tech.com.br/">Pro4Tech</a>.
+</p>
 
 <span id="problema">
 
 ### O Problema 🤔
 
-O problema apresentado pela empresa [Pro4Tech](https://pro4tech.com.br/) está relacionado à eficiência e à eficácia no processo de recrutamento e seleção de pessoal. Atualmente, a empresa busca otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados. A "dor" central do cliente inclui a necessidade de centralizar e visualizar dados dispersos, permitir uma tomada de decisão estratégica, gerar relatórios personalizados e automatizar processos manuais, além de possibilitar a integração de dados de diferentes fontes.
+<p align="justify">
+O problema apresentado pela empresa <a href="https://pro4tech.com.br/">Pro4Tech</a> está relacionado à eficiência e à eficácia no processo de recrutamento e seleção de pessoal. Atualmente, a empresa busca otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados. A "dor" central do cliente inclui a necessidade de centralizar e visualizar dados dispersos, permitir uma tomada de decisão estratégica, gerar relatórios personalizados e automatizar processos manuais, além de possibilitar a integração de dados de diferentes fontes.
+</p>
 
 <span id="objetivo">
 
 ### Objetivo do Projeto 🎯
 
+<p align="justify">
 O projeto trata de uma plataforma focada na análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos como:
+</p>
 
-- Métricas de eficiência no recrutamento (ex. tempo médio de contratação, quantidade de contratações por processo seletivo).
-- Identificação de padrões e tendências para otimizar o processo de seleção.
-- Personalização de relatórios conforme as necessidades específicas dos gestores. 
+- <p align="justify">Métricas de eficiência no recrutamento (ex. tempo médio de contratação, quantidade de contratações por processo seletivo).</p>
+- <p align="justify">Identificação de padrões e tendências para otimizar o processo de seleção.</p>
+- <p align="justify">Personalização de relatórios conforme as necessidades específicas dos gestores.</p>
 
+<p align="justify">
 A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de CRUD sobre os dados operacionais, exceto por permissões, dashboards e usuários.
+</p>
+
 
 <span id="requisitos">
 
@@ -94,85 +103,85 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US01</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para que avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria.</td>
+                                        <td align="justify">Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para que avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado,para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado,para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero visualizar a quantidade de contratações realizadas por cada processo seletivo em um período específico, para que eu possa monitorar o progresso e a eficiência dos processos seletivos</td>
+                                        <td align="justify">Eu, como gerente de RH, quero visualizar a quantidade de contratações realizadas por cada processo seletivo em um período específico, para que eu possa monitorar o progresso e a eficiência dos processos seletivos</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US04</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero visualizar a quantidade de contratações realizadas por cada participante de RH, em um período específico, para que eu possa avaliar a produtividade e desempenho individual dos recrutadores</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar a quantidade de contratações realizadas por cada participante de RH, em um período específico, para que eu possa avaliar a produtividade e desempenho individual dos recrutadores</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US05</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero um processo de ETL que extraia, transforme e carregue os dados de processos seletivos, vagas, participantes de RH, contratações e tempos envolvidos, para que eu possa consolidar essas informações em um data warehouse e realizar análises mais eficazes para melhorar as decisões de recrutamento</td>
+                                        <td align="justify">Eu, como gerente de RH, quero um processo de ETL que extraia, transforme e carregue os dados de processos seletivos, vagas, participantes de RH, contratações e tempos envolvidos, para que eu possa consolidar essas informações em um data warehouse e realizar análises mais eficazes para melhorar as decisões de recrutamento</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US06</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero visualizar a pontuação de cada candidato por critério de avaliação, para cada vaga, para que eu possa avaliar objetivamente o desempenho dos candidatos e tomar decisões mais informadas no processo de contratação</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar a pontuação de cada candidato por critério de avaliação, para cada vaga, para que eu possa avaliar objetivamente o desempenho dos candidatos e tomar decisões mais informadas no processo de contratação</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US07</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero poder receber relatórios automaticos sazonais, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder receber relatórios automaticos sazonais, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US09</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US10</td>
                                         <td></td>
-                                        <td>Eu, como analista de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td align="justify">Eu, como analista de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US11</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td align="justify">Eu, como gerente de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US12</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas nas bases de dados, para poder facilitar meu serviço</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas nas bases de dados, para poder facilitar meu serviço</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US13</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH,quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
+                                        <td align="justify">Eu, como gerente de RH,quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US14</td>
                                         <td></td>
-                                        <td>Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acesar o sistema</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acesar o sistema</td>
                                         <td></td>
                         </tbody>
                 </table>
