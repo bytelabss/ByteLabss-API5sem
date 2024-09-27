@@ -33,10 +33,10 @@
 ## Sobre 📚
 
 <p align="center">
-        <a href="problema">O Problema 🤔</a> | 
-        <a href="objetivo">Objetivo do Projeto 🎯</a> | 
-        <a href="requisitos">Requisitos Funcionais do Projeto 📝</a> | 
-        <a href="desenvolvimento"> Regras de Desenvolvimento 📏</a>
+        <a href="#problema">O Problema 🤔</a> | 
+        <a href="#objetivo">Objetivo do Projeto 🎯</a> | 
+        <a href="#requisitos">Requisitos Funcionais do Projeto 📝</a> | 
+        <a href="#desenvolvimento"> Regras de Desenvolvimento 📏</a>
 </p>
 
 A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente. O cliente parceiro deste semestre é a empresa [Pro4Tech](https://pro4tech.com.br/).
