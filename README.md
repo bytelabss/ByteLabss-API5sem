@@ -150,13 +150,13 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 </tr>
                                 <tr>
                                         <td>US09</td>
-                                        <td></td>
+                                        <td>5</td>
                                         <td align="justify">Eu, como analista de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US10</td>
-                                        <td></td>
+                                        <td>5</td>
                                         <td align="justify">Eu, como gerente de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
                                         <td></td>
                                 </tr>
