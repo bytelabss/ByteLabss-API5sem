@@ -174,7 +174,7 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 </tr>
                                 <tr>
                                         <td>US13</td>
-                                        <td></td>
+                                        <td>4</td>
                                         <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acesar o sistema</td>
                                         <td></td>
                                 </tr>
