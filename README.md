@@ -82,7 +82,7 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 <span id="desenvolvimento">
 
-### Regras de Desenvolvimento
+### Regras de Desenvolvimento 📏
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
 
