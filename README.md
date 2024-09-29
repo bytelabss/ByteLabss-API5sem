@@ -103,13 +103,13 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US01</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para que avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria</td>
+                                        <td align="justify">Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para poder avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado,para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado, para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
@@ -139,13 +139,13 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US07</td>
                                         <td>3</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder receber relatórios automaticos sazonais, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder receber relatórios automáticos sazonais, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
                                         <td>6</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros usuários em suas atividades</td>
                                         <td></td>
                                 </tr>
                                 <tr>
@@ -163,19 +163,19 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US11</td>
                                         <td>2</td>
-                                        <td align="justify">Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas nas bases de dados, para poder facilitar meu serviço</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas na base de dados, para poder facilitar meu acesso</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US12</td>
                                         <td>6</td>
-                                        <td align="justify">Eu, como gerente de RH,quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
                                         <td></td>
                                 </tr>
                                 <tr>
                                         <td>US13</td>
                                         <td>4</td>
-                                        <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acesar o sistema</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acessar o sistema</td>
                                         <td></td>
                                 </tr>
                                 <tr>
