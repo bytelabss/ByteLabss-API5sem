@@ -14,7 +14,7 @@
 
 <h2 align="right">
         <img src="https://img.shields.io/badge/status-ongoing-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
-        <img src="https://img.shields.io/badge/sprint-1-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
+        <img src="https://img.shields.io/badge/sprint-2-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
 </h2>
 
 <span id="indice">
@@ -24,7 +24,6 @@
 - [Índice 📎](#indice)
 - [Sobre 📚](#sobre)
 - [Backlog do Produto 📍](#backlog-do-produto)
-- [Projeto em Operação 📱](#projeto-em-operacao)
 - [Cronograma de Entrega 🗓](#cronograma-de-entrega)
 - [Equipe 👩‍💻👨‍💻](#equipe)
 
@@ -66,7 +65,6 @@ O projeto trata de uma plataforma focada na análise de dados de recrutamento e 
 <p align="justify">
 A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de CRUD sobre os dados operacionais, exceto por permissões, dashboards e usuários.
 </p>
-
 
 <span id="requisitos">
 
@@ -188,10 +186,6 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                 </table>
         </div>
 </body>
-
-<span id="projeto-em-operacao">
-
-## Projeto em Operação 📱
 
 <span id="cronograma-de-entrega">
 
