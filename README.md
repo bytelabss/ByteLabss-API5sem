@@ -80,6 +80,12 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 <span id="desenvolvimento">
 
+### Requisitos Não funcionais do Projeto
+1. Manual do Usuário
+2. Guia de instalação
+3. Modelagem do Banco de Dados
+4. Implementação de protocolos de segurança
+
 ### Regras de Desenvolvimento 📏
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
