@@ -82,10 +82,10 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 ### Requisitos Não funcionais do Projeto
 
-1. Manual do Usuário
-2. Guia de instalação
-3. Modelagem do Banco de Dados
-4. Implementação de protocolos de segurança
+1. [Manual do Usuário](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
+2. [Guia de instalação](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
+3. [Modelagem do Banco de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=Modelagem%20de%20Banco%20de%20Dados%20Eficiente%3A)
+4. [Implementação de protocolos de segurança](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.-,Seguran%C3%A7a%20de%20Dados%3A,-Implementa%C3%A7%C3%A3o%20de%20protocolos)
 
 ### Regras de Desenvolvimento 📏
 
