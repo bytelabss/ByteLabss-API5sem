@@ -91,6 +91,10 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
 
+### Regras de DevOps 📏
+
+[Regras de DevOps](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-DevOps)
+
 <span id="backlog-do-produto">
 
 ## Backlog do Produto 📍
