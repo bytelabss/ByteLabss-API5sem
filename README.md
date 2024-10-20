@@ -143,7 +143,7 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US06</td>
                                         <td>3</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possoa estudar periodos específicos dos processos seletivos e tomas novas decisões de forma embasada</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
