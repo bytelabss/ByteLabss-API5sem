@@ -89,8 +89,7 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 ### Regras de Desenvolvimento 📏
 
-- [Estratégia de Branches](https://github.com/bytelabss#-estrat%C3%A9gia-de-branches)
-- [Estratégia de Commits](https://github.com/bytelabss#%EF%B8%8F-estrat%C3%A9gia-de-commits)
+[Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
 
 ### Regras de DevOps 📏
 
