@@ -93,7 +93,16 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 ### Regras de DevOps 📏
 
-[Regras de DevOps](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-DevOps)
+
+<p align="center">
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-CI">CI</a>  |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Deploy">Deploy</a>  |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-QA">QA</a>  |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Requirements-Tracking">Requirements Tracking</a>  |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Testes-de-Integra%C3%A7%C3%A3o">Testes de Integração</a>  |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Testes-Unit%C3%A1rios">Testes Unitários</a> |
+    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Versionamento-de-Banco-de-Dados">Versionamento de Banco de Dados</a>
+</p>
 
 <span id="backlog-do-produto">
 
